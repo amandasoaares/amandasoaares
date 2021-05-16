@@ -1,3 +1,3 @@
 # Amanda Soares de Carvalho 👩‍💻
 
-- 💻 Working as an SRE at Alice
+- 💻  Working as an SRE at Alice
